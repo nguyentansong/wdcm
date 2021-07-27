@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WDCM_Api.Data\WDCM_Api.Data.csproj" />
+    <ProjectReference Include="..\WDCM_Api.Repository.Interfaces\WDCM_Api.Repository.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
